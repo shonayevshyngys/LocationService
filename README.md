@@ -2,10 +2,10 @@
 Drei Test application
 
 ## prerequisites
-Docker and Docker-Compose
-Maven
-Bash
-Free port 5432, 8000
+Docker and Docker-Compose\
+Maven\
+Bash\
+Free port 5432, 8000\
 
 ## Running the application
 Github folder contains bash script start.sh
